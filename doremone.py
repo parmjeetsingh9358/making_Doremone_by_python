@@ -1,6 +1,5 @@
 from turtle import *
 
-
 # Doraemon with Python Turtle
 def ankur(x, y):
     penup()
